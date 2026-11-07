@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# original download (the site uses public/music/song.mp3)
+/*.mp3
+.claude
